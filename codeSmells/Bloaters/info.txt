@@ -1,0 +1,9 @@
+"Bloaters" are a type of code smell that indicate a potential problem in your code design due to excessive complexity,
+ length, or unnecessary elements.They make the code harder to maintain, understand, and extend.
+
+ How to Handle Bloaters
+Refactoring: Breaking down large methods, classes, or parameter lists into smaller, more focused ones.
+Encapsulation: Grouping related data or functionality into cohesive classes.
+Avoiding Primitive Obsession: Introducing more specific types and structures when necessary.
+Regular Code Reviews: Ensuring that code does not become bloated over time by reviewing changes consistently.
+By addressing bloaters, you can make your code more maintainable, readable, and efficient.

@@ -1,0 +1,1 @@
+When related data is often passed together in multiple parts of the code, they could be grouped into a class or a data structure.

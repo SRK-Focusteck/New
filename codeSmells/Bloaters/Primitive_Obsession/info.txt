@@ -1,0 +1,1 @@
+The use of primitive data types (e.g., strings, ints) when a more meaningful class could be used instead.

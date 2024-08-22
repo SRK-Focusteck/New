@@ -1,0 +1,1 @@
+ A class that has accumulated too many responsibilities, often because it was never refactored as it grew.
